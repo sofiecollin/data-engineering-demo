@@ -1,6 +1,7 @@
 # Data Engineering Demo - Trivia App
 
 This repository contains an application for a simple Trivia game.
+
 ![Alt text](src/Assets/trivia_app.png)
 
 The project examplifies a simple ETL process of fetching data from an API, transforming it and loading it to a database. The data is then utilized in a simple Trivia game, displayed in a Streamlit app.
