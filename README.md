@@ -3,7 +3,7 @@
 This repository contains an application for a simple Trivia game.
 ![Alt text](src/Assets/trivia_app.png)
 
-Th rpoject examplifies a simple ETL process of fetching data from an API, transforming it and loading it to a database. The data is then utilized in a simple Trivia game, displayed in a Streamlit app.
+The project examplifies a simple ETL process of fetching data from an API, transforming it and loading it to a database. The data is then utilized in a simple Trivia game, displayed in a Streamlit app.
 
 
 # Installation
@@ -25,7 +25,8 @@ Th rpoject examplifies a simple ETL process of fetching data from an API, transf
     pip install -r requirements.txt
     ```
 
-5.  ```bash
+5. Run the app:
+    ```bash
     streamlit run main.py
     ```
 This will start the frontend server and the application can be accessed in the web browser at `http://localhost:8501`, or a different port specified by the user.
